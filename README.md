@@ -1,2 +1,1 @@
-# Simple-to-do-List
-My first project using JavaScript.
+Mi primer proyecto haciendo uso de JavaScript.
